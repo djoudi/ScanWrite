@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/usr/local/ERPDeliveryReceipt/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/usr/local/ERPDeliveryReceipt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.8.0_d5d2489fcdf143194f2a0ad2fb923e630be51e00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_09eb8e25deac0d7e0be960cb82b4726943d3e839/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/ERPDeliveryReceipt/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/usr/local/ERPDeliveryReceipt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_7d809e57d1fe6956fa1b0304ab55e5e37766cbe4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.8.0_601b3bee9eca89b610bed4a66a3ae146474d6d06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/ERPDeliveryReceipt/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/usr/local/ERPDeliveryReceipt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_7ef2808a288d4ea9fd6eae1c700f4b30c7d3911e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/ERPDeliveryReceipt/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/usr/local/ERPDeliveryReceipt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_db22dcf51b072edd0ef41d5adebaa507ccc6ed7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/red1/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_29d772d448bd782994f380330686b5a65c882306/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_ccec69ac66b5c4009e89df8127706caa956f86a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/ERPDeliveryReceipt/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="861b2de3e7720bbe1906f0e28feb197b9f29a637">
+        <dex dex="/usr/local/ERPDeliveryReceipt/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e9db5df55e409ad06c0fe7f96f2a4de3f9417548/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8eb48b3f6dc8245d436160ae3d7eb5ef7aebf8f2">
+        <dex dex="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e4779b7591fe97574adb0856b148e8f39dac7285/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_c57ece35aab9a90df5ec716a354a373dab501a7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/ERPDeliveryReceipt/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/usr/local/ERPDeliveryReceipt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_14913e27a3b791fdc045563ecb9fdc4b23d36511/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_205d838f91e4eb4bcf37cc5a6bd2ba9acaeaa1da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/ERPDeliveryReceipt/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/usr/local/ERPDeliveryReceipt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_166e0e7d1c71c8dd1315e76cdece6a9081ce863d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/ERPDeliveryReceipt/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/usr/local/ERPDeliveryReceipt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_1de3fba4fd8834b359823ae37ce5bccc940cefa7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/ERPDeliveryReceipt/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4682c7c3879f98c2ffd26bac0253677dd2dd6430">
+        <dex dex="/usr/local/ERPDeliveryReceipt/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_97724e723121d76b6d8554e61c9712701b1e4f1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb3a175bb75adbbf2d2e9dfcc69e6563645d1a41">
+        <dex dex="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_237e891040ece4e8f5cd241f973f1967cb9aed60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_494b79d648efab149891d9cbdef9776aae0f6278/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/ERPDeliveryReceipt/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/usr/local/ERPDeliveryReceipt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_dc0ad87ea12b6b4306b34faf3f49c4d593f98e70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/ERPDeliveryReceipt/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/usr/local/ERPDeliveryReceipt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_815f3078082b3b3b42be78009414f8dcff066022/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_2d89752642cef3846520f5025b8e46120674a34c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_bad16cdbec7bc30ebdd6693f4380601d4ff2847a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/ERPDeliveryReceipt/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/usr/local/ERPDeliveryReceipt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_859f167f00752e4651db96ca95ab6be09d0767fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_ee049ee41c733a545a218c931f6495bf0417a0eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_bd47e4c54a12627638291285b67666c4cbde37e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/ERPDeliveryReceipt/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/usr/local/ERPDeliveryReceipt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_feadc6d73fe1c468bc86de56d4c03f75d1ee083e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_71b3bbc2519b050249f8e45dd87255b9d15f873f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/ERPDeliveryReceipt/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/usr/local/ERPDeliveryReceipt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_7a042b874f495b1b0b78445a29f5722fbb29dcf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_62304a5cbe5c0587ef93ac5f84a422f37a74f293/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_c1a554cbc1327d38869a164ee924fafc969bebc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/ERPDeliveryReceipt/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/usr/local/ERPDeliveryReceipt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_ef0521821352781530e53343137daf668007e989/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/ERPDeliveryReceipt/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/usr/local/ERPDeliveryReceipt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_ead09b87c654aea3f3f69895500d29d34c2c64ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/usr/local/AndroidBarCodeQrExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_123b987599b2f599b08bb47f393863bb4aedd751/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/ERPDeliveryReceipt/app/libs/postgresql-9.3-1103.jdbc3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="309373613ac03e336e6ff845bccd90af76a0e719">
+        <dex dex="/usr/local/ERPDeliveryReceipt/app/build/intermediates/transforms/dex/debug/folders/1000/2/postgresql-9.3-1103.jdbc3_2f445043b76e5dc9b3a9c1bd9df41533e46ca084/classes.dex" />
+    </item>
+
+</items>

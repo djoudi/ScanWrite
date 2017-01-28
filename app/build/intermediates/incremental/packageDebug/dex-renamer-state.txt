@@ -1,0 +1,7 @@
+#Sun Jan 29 05:40:47 MYT 2017
+base.0=/usr/local/ERPDeliveryReceipt/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_97724e723121d76b6d8554e61c9712701b1e4f1b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/usr/local/ERPDeliveryReceipt/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e9db5df55e409ad06c0fe7f96f2a4de3f9417548/classes.dex
+base.1=/usr/local/ERPDeliveryReceipt/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e9db5df55e409ad06c0fe7f96f2a4de3f9417548
+file.0=/usr/local/ERPDeliveryReceipt/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_97724e723121d76b6d8554e61c9712701b1e4f1b/classes.dex

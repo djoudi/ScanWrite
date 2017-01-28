@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/usr/local/ERPDeliveryReceipt/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_settings.png",
+        "source": "/usr/local/ERPDeliveryReceipt/app/src/main/res/drawable-mdpi/ic_settings.png"
+    },
+    {
+        "merged": "/usr/local/ScanWrite/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_settings.png",
+        "source": "/usr/local/ScanWrite/app/src/main/res/drawable-mdpi/ic_settings.png"
+    }
+]

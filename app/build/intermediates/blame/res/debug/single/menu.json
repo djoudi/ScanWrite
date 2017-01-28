@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/usr/local/ScanWrite/app/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/usr/local/ScanWrite/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/usr/local/ERPDeliveryReceipt/app/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/usr/local/ERPDeliveryReceipt/app/src/main/res/menu/menu.xml"
+    }
+]

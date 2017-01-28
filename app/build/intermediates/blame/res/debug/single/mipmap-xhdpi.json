@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/usr/local/ScanWrite/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/usr/local/ScanWrite/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/usr/local/ERPDeliveryReceipt/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/usr/local/ERPDeliveryReceipt/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

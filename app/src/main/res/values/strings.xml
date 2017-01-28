@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SCAN WRITE</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="database_settings">DB Connection</string>
+    <string name="about">About</string>
+    <string name="forum_link">Get the code from <a href="http://red1.org/adempiere/viewtopic.php?f=45&amp;t=1833&amp;p=8846">http://red1.org/adempiere/viewtopic.php?f=45&amp;t=1833&amp;p=8846</a> and modify it.</string>
+</resources>
