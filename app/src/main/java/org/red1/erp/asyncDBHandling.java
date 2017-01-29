@@ -4,8 +4,12 @@
  */
 package org.red1.erp;
 
+import android.app.Activity;
 import android.content.SharedPreferences;
 import android.os.AsyncTask;
+import android.widget.LinearLayout;
+import android.widget.TextView;
+import android.widget.Toast;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -19,8 +23,13 @@ import java.util.List;
 
 public class asyncDBHandling extends AsyncTask {
 
+    private static Activity activity;
     private SharedPreferences sp;
     private List<String>scannedList;
+
+    public asyncDBHandling(ScanWrite scanWrite) {
+        activity = (Activity)scanWrite;
+    }
 
     @Override
     protected Object doInBackground(Object[] params) {
@@ -37,6 +46,8 @@ public class asyncDBHandling extends AsyncTask {
     }
 
     private void updateDB() throws ClassNotFoundException, SQLException {
+        int OKcnt = 0;
+        int NotOKcnt = 0;
         Class.forName("org.postgresql.Driver");
         Connection conn = null;
         try {
@@ -63,18 +74,38 @@ public class asyncDBHandling extends AsyncTask {
                 try {
                     int i = pstmt.executeUpdate(SQL);
                     System.out.println(SQL+"DB result = "+i);
+                    OKcnt++;
                 } catch (SQLException e){
+                    NotOKcnt++;
                     continue;
                 }
-
-
-            }
+           }
            /* int i = pstmt.executeUpdate("UPDATE BedRegistration SET DocStatus = 'IP' WHERE Name='PatientOne'");
             System.out.println("DB result = "+i);*/
         }
         finally{
-            conn.close();
+            if (conn!=null){
+                conn.close();
+                final int OK = OKcnt;
+                final int NotOK = NotOKcnt;
+                String msg = "";
+                if (OKcnt+NotOKcnt==0)
+                    msg = "No Records Scanned";
+                if(OKcnt>0)
+                    msg = OKcnt + " OK";
+                if (NotOKcnt>0)
+                    msg = NotOKcnt + " FAIL / others OK";
+                final String popup = msg;
+                activity.runOnUiThread(new Runnable() {
+                    public void run() {
+                        Toast toast = Toast.makeText(activity, popup, Toast.LENGTH_LONG);
+                        LinearLayout toastLayout = (LinearLayout) toast.getView();
+                        TextView toastTV = (TextView) toastLayout.getChildAt(0);
+                        toastTV.setTextSize(30);
+                        toast.show();
+                    }
+                });
+            }
         }
-
     }
 }
