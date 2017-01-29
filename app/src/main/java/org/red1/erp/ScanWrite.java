@@ -141,8 +141,9 @@ public class ScanWrite extends AppCompatActivity {
     }
 
     public void updateDB(View v) {
-
-        new asyncDBHandling().execute(sp,scannedList);
+        asyncDBHandling as = new asyncDBHandling(this);
+        as.execute(sp,scannedList);
+        //new asyncDBHandling().execute(sp,scannedList);
     }
 
     private static AlertDialog showDialog(final AppCompatActivity act, CharSequence title, CharSequence message, CharSequence buttonYes, CharSequence buttonNo) {
